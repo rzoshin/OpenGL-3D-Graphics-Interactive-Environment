@@ -1,4 +1,4 @@
-# 3D Interactive Graphics Scene with OpenGL
+# OpenGL 3D Graphics Interactive Environement
 
 ## Project Overview
 This repository contains a 3D graphics application developed using OpenGL, GLFW, and GLM for the CSE 4201 Computer Graphics and Animations course (Roll No: 1903073). The project implements an interactive 3D scene featuring a cube, sphere, pyramid, and a ground plane, enhanced with shadow mapping for realistic lighting effects. The application supports real-time user interaction for object transformations (translation, rotation, scaling) and camera control, along with automatic animations. A skybox adds depth to the environment, and textures are applied to the cube.
@@ -40,5 +40,5 @@ This repository contains a 3D graphics application developed using OpenGL, GLFW,
    - Ensure a C++ compiler is installed (e.g., g++).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rzoshin/3D-Interactive-Graphics-OpenGL.git
+   git clone https://github.com/rzoshin/OpenGL-3D-Graphics-Interactive-Environement.git
    cd 3D-Interactive-Graphics-OpenGL
